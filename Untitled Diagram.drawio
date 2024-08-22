@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-08-13T17:21:27.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.4.10" etag="C5p7EAdrqE2II5OxAuNG" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="Q_tjJmQo-i1wZge0qDu4">
-    <mxGraphModel>
+    <mxGraphModel dx="1408" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="THgdiTu5fI94kbryNM1--1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;" vertex="1" parent="1">
+          <mxGeometry x="670" y="110" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="THgdiTu5fI94kbryNM1--2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_firewall_endpoints;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="THgdiTu5fI94kbryNM1--3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THgdiTu5fI94kbryNM1--5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.tunnel_straight;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="59" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="THgdiTu5fI94kbryNM1--7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/tunnel.svg;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="THgdiTu5fI94kbryNM1--9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;VPN&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58536;gradientColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="THgdiTu5fI94kbryNM1--10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_firewall_endpoints;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="78" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
