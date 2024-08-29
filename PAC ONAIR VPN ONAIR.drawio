@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KBhUbNRlij_uPpNZcL6_-18" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="699" y="255" width="270" height="145" as="geometry" />
+        </mxCell>
         <mxCell id="KBhUbNRlij_uPpNZcL6_-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="567" y="344" width="132" height="132" as="geometry" />
         </mxCell>
@@ -49,11 +52,8 @@
         <mxCell id="KBhUbNRlij_uPpNZcL6_-16" value="SITA&lt;div&gt;LOCATION B&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="587.5" y="447" width="91" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KBhUbNRlij_uPpNZcL6_-17" value="&lt;b&gt;SITA ONAIR NETWORKS&lt;br&gt;&lt;/b&gt;&lt;br&gt;10.208.0.0&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;div&gt;10.216.0.0&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KBhUbNRlij_uPpNZcL6_-17" value="&lt;b&gt;SITA ONAIR NETWORKS&lt;br&gt;&lt;/b&gt;&lt;br&gt;Default 0.0.0.0/0&lt;br&gt;10.121.x.x/16&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="290" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="KBhUbNRlij_uPpNZcL6_-18" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="699" y="255" width="270" height="145" as="geometry" />
         </mxCell>
         <mxCell id="KBhUbNRlij_uPpNZcL6_-19" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/tunnel.svg;" parent="1" vertex="1">
           <mxGeometry x="420" y="237.5" width="115" height="23" as="geometry" />
@@ -97,7 +97,7 @@
             <mxPoint x="253" y="271" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KBhUbNRlij_uPpNZcL6_-27" value="&lt;b&gt;PAC&lt;/b&gt;&lt;br&gt;INTERNAL NETWORKS&lt;div&gt;10.121.x.x&lt;/div&gt;&lt;div&gt;10.x.x.x&lt;/div&gt;&lt;div&gt;.... etc&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KBhUbNRlij_uPpNZcL6_-27" value="&lt;b&gt;PAC&lt;/b&gt;&lt;br&gt;INTERNAL NETWORKS&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;10.208.0.0/13&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;10.216.0.0/14&lt;/span&gt;&lt;/div&gt;&lt;div&gt;.... etc&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="400" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KBhUbNRlij_uPpNZcL6_-28" value="&lt;b&gt;BGP&lt;br&gt;AS 64657&lt;/b&gt;" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.routing;" parent="1" vertex="1">
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="KBhUbNRlij_uPpNZcL6_-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1935/1935029.png;" parent="1" vertex="1">
           <mxGeometry x="30" y="250" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-4Sqmfq4-ZQDsCpny3Mt-1" value="10.x.x.x/21" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.airplane_7;" vertex="1" parent="1">
+          <mxGeometry x="70" y="477" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
