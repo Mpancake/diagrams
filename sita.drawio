@@ -92,7 +92,7 @@
           <mxGeometry x="190" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mOwfyuYra0vWb5qhgBzf-26" value="PAC DNS&lt;br&gt;10.121.15.154" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="328" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mOwfyuYra0vWb5qhgBzf-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
